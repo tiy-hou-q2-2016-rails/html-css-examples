@@ -1,0 +1,22 @@
+header {
+  background-color: #8e44ad;
+  padding: 20px;
+}
+
+header .phone {
+  color: #ffffff;
+  text-align: right;
+}
+
+nav.navbar a:hover {
+  text-decoration: underline;
+}
+
+.navbar, .navbar-inverse {
+  border-radius: 0;
+  background-image: none;
+}
+
+.pagination, a.new-image {
+  margin: 20px 0;
+}
